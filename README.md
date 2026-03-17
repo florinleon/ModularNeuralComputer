@@ -35,7 +35,7 @@ A typical case-study directory contains files such as:
 
 A detailed description of the architecture and examples can be found in this paper:
 
-**Florin Leon, _Modular Neural Computer_, 2026**  
+> Florin Leon, *Modular Neural Computer*, 2026, https://arxiv.org/abs/2603.13323.
 
 ## Note
 
